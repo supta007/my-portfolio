@@ -7,3 +7,27 @@ body{
 .banner-coloum{
     background-color: aquamarine;
 }
+.navbar-container{
+    background-color: #262B37;
+}
+.about-container{
+    background-color: #00BDBD ;
+}
+.education-container{
+    background-color: black;
+}
+.edu{
+    
+}
+.circle{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.card-body{
+    background-color: red;
+}
+.project-container{
+    background-color: #2BB3DD;
+}
